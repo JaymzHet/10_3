@@ -11,5 +11,5 @@ $(function() {
 
     function changeSlide () {
         carouselList.animate({'marginLeft':-800}, 600, moveFirstSlide); 
-        };
+    };
 });
